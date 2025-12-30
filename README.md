@@ -7,8 +7,8 @@ Lately I've been primarily using <a href="https://rust-lang.org">Rust</a> a for 
 </p>
 <p align="center">Almost all of my repos are, and will stay private. Simple reason for that is embarrassment.</p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Shine0064&theme=dracula&margin-w=10&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Veylisha&theme=dracula&margin-w=10&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shine0064&show_icons=true&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Veylisha&show_icons=true&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/672824404702527509)](https://discord.com/users/672824404702527509)
